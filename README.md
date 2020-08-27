@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm GaoXiang 
 
-<!--
-**gaoxianglyx/gaoxianglyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Now I'm working at HongSong Entrepreneurial team as a web frontend developer.
 
-Here are some ideas to get you started:
+博客：[ssh](http://gaoxiang.ga) / 知乎：[ssh](https://www.zhihu.com/people/gao-xiang-87-6) /
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+![](https://github-readme-stats.vercel.app/api?username=gaoxianglyx&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
