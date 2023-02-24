@@ -2,7 +2,7 @@
 
 Now I'm working at HongSong Entrepreneurial team as a web frontend developer.
 
-Blog：[link](http://gaoxiang.ga) /   zhihu：[link](https://www.zhihu.com/people/gao-xiang-87-6) /   bilibili：[link](https://space.bilibili.com/67247583) /
+Blog：[link](http://gaoxiang.ddns.net:8083) /   zhihu：[link](https://www.zhihu.com/people/gao-xiang-87-6) /   bilibili：[link](https://space.bilibili.com/67247583) /
 
 **Languages and Tools:**  
 
